@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/iamtimokhin_hover/static/css/main.563eca78.chunk.css",
+    "main.js": "/iamtimokhin_hover/static/js/main.86e98e0d.chunk.js",
+    "main.js.map": "/iamtimokhin_hover/static/js/main.86e98e0d.chunk.js.map",
+    "runtime-main.js": "/iamtimokhin_hover/static/js/runtime-main.8acd35eb.js",
+    "runtime-main.js.map": "/iamtimokhin_hover/static/js/runtime-main.8acd35eb.js.map",
+    "static/js/2.c205d498.chunk.js": "/iamtimokhin_hover/static/js/2.c205d498.chunk.js",
+    "static/js/2.c205d498.chunk.js.map": "/iamtimokhin_hover/static/js/2.c205d498.chunk.js.map",
+    "index.html": "/iamtimokhin_hover/index.html",
+    "static/css/main.563eca78.chunk.css.map": "/iamtimokhin_hover/static/css/main.563eca78.chunk.css.map",
+    "static/js/2.c205d498.chunk.js.LICENSE.txt": "/iamtimokhin_hover/static/js/2.c205d498.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8acd35eb.js",
+    "static/js/2.c205d498.chunk.js",
+    "static/css/main.563eca78.chunk.css",
+    "static/js/main.86e98e0d.chunk.js"
+  ]
+}
